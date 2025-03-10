@@ -6,7 +6,8 @@
 **Today's Progress**: Working on a Next.js Project, Created the project, added mongodb, created mongoose models, added next-auth.
 
 **Thoughts:** I feel motivated now to work on projects. I will be making this one of my best projects till now. 
-**Link to work:** [Calculator App](http://www.example.com)
+
+**Link to work:** [AI Resume Builder](https://github.com/AsimRamdurg12/ai-resume-builder/commit/14a54c176f83a31884ab29297f93e0db696fcd66)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
