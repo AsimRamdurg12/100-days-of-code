@@ -14,7 +14,7 @@
 
 **Thoughts**: Sometimes I feel demotivated, but then I remember my goals and get back on track. I will comeback stronger than ever
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [AI Resume Builder](https://github.com/AsimRamdurg12/ai-resume-builder/commit/a642a5787e607946529a04340e50cb80ac06d7ed)
 
 ### Day 1: June 27, Monday
 
