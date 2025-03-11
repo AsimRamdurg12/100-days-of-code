@@ -2,21 +2,17 @@
 
 ### Day 0: March 10, 2025
 
-##### (delete me or comment me out)
-
 **Today's Progress**: Working on a Next.js Project, Created the project, added mongodb, created mongoose models, added next-auth and middleware.
 
 **Thoughts:** I feel motivated now to work on projects. I will be making this one of my best projects till now.
 
 **Link to work:** [AI Resume Builder](https://github.com/AsimRamdurg12/ai-resume-builder/commit/14a54c176f83a31884ab29297f93e0db696fcd66)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: March 11, 2025
 
-##### (delete me or comment me out)
+**Today's Progress**: Created SignUp and SignIn Page learnt about server actions and added zod validation and form handling.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Sometimes I feel demotivated, but then I remember my goals and get back on track. I will comeback stronger than ever
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
