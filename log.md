@@ -25,3 +25,13 @@
 **Link(s) to work**
 
 1. [AI Resume Builder](https://github.com/AsimRamdurg12/ai-resume-builder/commit/14cd898bb9112a622bf0e0af324fe0c768090d59)
+
+### Day 3: March 13,2025, Thursday
+
+**Today's Progress**: Did a lot of bug fixes and learnt about some react libraries.
+
+**Thoughts**: My mind gets easily distracted. From now onwards I will have to concentrate more on coding and developing logic.
+
+**Link(s) to work**
+
+1. [AI Resume Builder](https://github.com/AsimRamdurg12/ai-resume-builder/commit/b99e725d912df36bf6a490183ea0b17478c7425b)
